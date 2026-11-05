@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T23:01:01.936Z",
+  "generated_at": "2026-11-05T23:32:42.912Z",
   "items": {
     "problem:860": {
       "kind": "problem",
@@ -13,6 +13,19 @@
       "last_pushed_at": "2026-11-05T23:00:56.974Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:861": {
+      "kind": "problem",
+      "id": "861",
+      "title": "Tuned Lens - Learned Affine Probe per Layer",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/861",
+      "path": "problems/0861-tuned-lens-learned-affine-probe-per-layer",
+      "first_solved_at": "2026-11-05T23:32:41.540Z",
+      "last_pushed_at": "2026-11-05T23:32:41.540Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
